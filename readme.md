@@ -5,4 +5,6 @@ Fixes an exception thrown by WFFM-specific event handler for &quot;publish:end&q
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.137903/blob/master/LICENSE).  
 
 ## Download  
-Downloads are available via [GitHub Releases](https://github.com/sitecoresupport/Sitecore.Support.137903/releases).  
+Downloads are available via [GitHub Releases](https://github.com/sitecoresupport/Sitecore.Support.137903/releases).
+
+[![Github All Releases](https://img.shields.io/github/downloads/SitecoreSupport/Sitecore.Support.137903/total.svg)](https://github.com/SitecoreSupport/Sitecore.Support.137903/releases)
